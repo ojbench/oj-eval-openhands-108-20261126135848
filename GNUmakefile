@@ -1,5 +1,5 @@
-CXX = g++
-CXXFLAGS = -O2 -std=c++17
+CXX = c++
+CXXFLAGS = -O2 -std=c++11
 
 all: code
 
